@@ -1,4 +1,4 @@
-# Русский
+# Hidden Agenda Client
 Реверс сетевого протокола мобильного клиента игры [Hidden Agenda](https://store.playstation.com/en-us/product/UP9000-CUSA08019_00-PMFW000000000001).
 
 ## Использование
